@@ -62,6 +62,8 @@ A TSA video game built in Unity centered around traveling the world and discover
 
 **Stack:** Unity · C#
 
+---
+
 ### 😮‍💨 StopSigh · CSE 300 — Technical Communication, SBU
 A student productivity app with a twist: it has a living mascot whose emotional state mirrors how well you're managing your time. Miss a deadline and your companion suffers. Stay on top of things and it thrives. 
 
