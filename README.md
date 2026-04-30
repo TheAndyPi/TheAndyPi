@@ -5,7 +5,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-andersonzchan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonzchan/)
 [![Email](https://img.shields.io/badge/Email-Anderson.Chan@stonybrook.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Anderson.Chan@stonybrook.edu)
-[![SBU](https://img.shields.io/badge/Stony_Brook_University-Presidential_Scholar-990000?style=flat-square)](https://www.stonybrook.edu/)
 
 </div>
 
